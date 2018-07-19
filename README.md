@@ -14,7 +14,7 @@ Il ...
 
 ### Qui sont les joyeux lurons derrière tout ça ?
 
-Ce programme est 100% made in Strasbourg by Hugo PAYET, Samaneh VAEZI, Lambert SPIESS et Soraya FRUCTUOSO.
+Ce programme est 100% made in Strasbourg by Hugo PAYET, Samaneh VAEZI et Soraya FRUCTUOSO.
 
 Et surtout, il est fait avec amour ! Bonne correction les amis :kissing_heart:
 
